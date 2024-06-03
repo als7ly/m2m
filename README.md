@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # m2m
-Many ToMany Convertor
+Many To Many Convertor
 =======
 ## Getting Started
 
